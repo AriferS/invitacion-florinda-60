@@ -5,7 +5,8 @@ Invitación digital (sitio estático) para el cumpleaños número 60 de **Florin
 Incluye:
 - `index.html`: Invitación general con **Pase de honor**, retrato en marco dorado de laurel, **cuenta regresiva**, **Google Maps** (`-6.5736,-76.1378`), código de vestimenta (**Semi formal**), confirmación por **WhatsApp** a Maira (`+51 901 366 227`) y **música** (`cancion.mp3`).
 - `festejada.html`: Versión especial para la festejada.
-- Imágenes HD optimizadas: `florinda-hd.png`, `marco-laurel-hd.png`, `rosas-hd.png`, `flor-esquina-hd.png`, `mano-lapiz.png`.
+- `Invitacion-Florinda-60.pdf`: Sobre PDF en alta nitidez con enlace invisible sobre el sello dorado "60".
+- Imágenes ligeras optimizadas: `florinda.jpg`, `marco-laurel.avif`, `rosas.avif`, `flor-esquina.avif`, `mano-lapiz.png`.
 
 ## Cómo editar los datos
 
@@ -23,4 +24,4 @@ Abre `index.html` y busca el bloque `const CONFIG = { ... }`:
 
 ## Publicar
 
-Sitio estático, sin build. En Netlify: *Add new site → Import from GitHub → este repositorio → Deploy*.
+Sitio estático, sin build. En Netlify: *Add new project → Import an existing project → GitHub → Deploy*.
