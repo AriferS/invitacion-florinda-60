@@ -24,4 +24,5 @@ Abre `index.html` y busca el bloque `const CONFIG = { ... }`:
 
 ## Publicar
 
-Sitio estático, sin build. En Netlify: *Add new project → Import an existing project → GitHub → Deploy*.
+Sitio estático, sin build. Publicado con **GitHub Pages** desde la rama `main`:
+`https://arifers.github.io/invitacion-florinda-60/`
