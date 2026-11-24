@@ -1,6 +1,6 @@
 # Invitación · 60 años de Florinda Apagueño Mori
 
-Invitación digital (sitio estático) para el cumpleaños número 60 de **Florinda Apagueño Mori** — lunes 7 de diciembre de 2026 a las 7:00 p.m. en **Broostheria Eithan** (Chazuta, frente a la Plaza de Armas).
+Invitación digital (sitio estático) para el cumpleaños número 60 de **Florinda Apagueño Mori** — lunes 7 de diciembre de 2026 a las 7:00 p.m. en **Chazuta · Frente a la plaza** (**Broostheria Eithan**).
 
 Incluye:
 - `index.html`: Invitación general con **Pase de honor**, retrato en marco dorado de laurel, **cuenta regresiva**, **Google Maps** (`-6.5736,-76.1378`), código de vestimenta (**Semi formal**), confirmación por **WhatsApp** a Maira (`+51 901 366 227`) y **música** (`cancion.mp3`).
