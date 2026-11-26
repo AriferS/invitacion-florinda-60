@@ -5,7 +5,8 @@ Invitación digital (sitio estático) para el cumpleaños número 60 de **Florin
 Incluye:
 - `index.html`: Invitación general con **Pase de honor**, retrato en marco dorado de laurel, **cuenta regresiva**, **Google Maps** (`-6.5736,-76.1378`), código de vestimenta (**Semi formal**), confirmación por **WhatsApp** a Maira (`+51 901 366 227`) y **música** (`cancion.mp3`).
 - `festejada.html`: Versión especial para la festejada.
-- `Invitacion-Florinda-60.pdf`: Sobre PDF en alta nitidez con enlace invisible sobre el sello dorado "60".
+- `Invitacion-Florinda-60.pdf`: Sobre PDF compatible con lectores nativos (WhatsApp, iOS, Android, macOS, Drive) con enlace a la invitación.
+- `sobre.html` + `sobre.jpg`: Versión web del sobre (para abrir en cualquier navegador o celular sin pantalla en blanco).
 - Imágenes ligeras optimizadas: `florinda.jpg`, `marco-laurel.avif`, `rosas.avif`, `flor-esquina.avif`, `mano-lapiz.png`.
 
 ## Cómo editar los datos
